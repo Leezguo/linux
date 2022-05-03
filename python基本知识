@@ -1,1 +1,16 @@
 My First Code
+
+
+
+3、Linux高级
+（1）http服务代理缓存加速（varnish、nginx缓存系统、CDN基础）
+（2）企业级负载集群（nginx、haproxy、lvs，对负载均衡算法有清晰认识）
+（3）企业级高可用集群 （keepalived、heartbeat深入）
+（4）运维监控zabbix详解（主要是zabbix、cacti、nagios等监控系）
+（5）运维自动化学习（自动化运维工具的使用如ansible、puppet、cobbler）
+4、linux进阶
+（1）大数据方向（hadoop、storm等常见开源大数据系统需要深入了解）
+（2）云计算方向（openstack、kvm、docker等）
+（3）运维开发（主要是python运维开发）
+（4）自动化运维（在之前自动化基础上做深入）
+（5）运维架构师
